@@ -6,7 +6,7 @@ jobs:
 
     steps:
     - checkout
-    - run: tar -xf lapok
+    - run: ls
 
 workflows:
   version: 2
